@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cd $PREFIX/bin && cd X0N4Y3M && python unistall.py
